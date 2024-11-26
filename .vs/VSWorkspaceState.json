@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Data",
+    "\\Migrations",
+    "\\Models",
+    "\\Views",
+    "\\Views\\Boletin"
+  ],
+  "SelectedNode": "\\Views\\Boletin\\GenerarBoletin.cshtml",
+  "PreviewInSolutionExplorer": false
+}
